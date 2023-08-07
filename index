@@ -4,12 +4,24 @@
 	<title></title>
 </head>
 <body>
+<<<<<<< HEAD
    <li>
    	
    	<li>ROJO</li>
    	<li>BLANCO</li>
    	<li>AZUL</li>
    	
+=======
+   <li>ROJO</li>
+   <li>AZUL</li>
+   <li>VERDE</li>
+   <li>NEGRO</li>
+   <li>GRIS</li>
+   <li>MORADO</li>
+   	
+   
+
+>>>>>>> uiux
    	
 </body>
 </html>
